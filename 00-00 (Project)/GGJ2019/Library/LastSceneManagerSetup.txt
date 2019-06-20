@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Scenes/Sele\xE7\xE3o de cena.unity"
+  isLoaded: 1
+  isActive: 1

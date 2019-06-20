@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Aluno\\Desktop\\Projeto Gabriel GGJ2019 - 1\\GGJ2019\\Assembly-CSharp.csproj",
+  "TargetFramework": "v3.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
